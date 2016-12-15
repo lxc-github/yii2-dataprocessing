@@ -1,0 +1,34 @@
+{  
+  "name": "lxc-github/dataprocessing",  
+  "description": "Yii2 dataprocessing",  
+  "keywords": [  
+	"yii2",  
+	"dataprocessing"  
+  ],  
+  "homepage": "https://github.com/lxc-github/yii2-dataprocessing",  
+  "type": "yii2-extension",  
+  "license": "MIT",  
+  "support": {  
+	"source": "https://github.com/lxc-github/yii2-dataprocessing"  
+  },  
+  "authors": [  
+	{  
+	  "name": "data processing",  
+	  "email": "674098372@qq.com"  
+	}  
+  ],  
+  "minimum-stability": "stable",  
+  "require": {  
+	"php": ">=5.4.0",  
+	"yiisoft/yii2": ">=2.0.6"  
+	 
+  },  
+  "autoload": {  
+	"psr-4": {  
+	  "terry\\": ""  
+	}  
+  },  
+  "config": {  
+	"process-timeout": 1800  
+  }  
+}
